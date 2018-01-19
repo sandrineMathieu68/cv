@@ -1,8 +1,8 @@
 $(function() {
   var words = [
-    'une développeuse',
-    'une aventurière',
-    'une animatrice'
+    'curieuse',
+    'aventurière',
+    'passionnée'
   ],
   i = 0;
 
